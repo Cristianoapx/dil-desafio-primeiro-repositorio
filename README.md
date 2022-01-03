@@ -1,2 +1,2 @@
-# dil-desafio-primeiro-repositorio
+# dil-desafio-github-primeiro-repositorio
 DEsafio de projeto sobre Git-Github
